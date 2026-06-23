@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # ClinicalMind
 ICU Mortality Prediction using MIMIC-IV
 
