@@ -11,16 +11,19 @@ ClinicalMind is a clinical AI system that predicts ICU patient mortality using s
 - FastAPI — model serving endpoint
 
 ## Project Structure
-- data/ — local only, not committed
-- notebooks/ — exploration and analysis
-- src/ — model code
-- models/ — saved checkpoints
+- `data/` — local only, not committed
+- `notebooks/` — exploration and analysis
+- `src/` — model code
+- `models/` — saved checkpoints
 
 ## Data Access
 Data is from MIMIC-IV v3.1 via PhysioNet (credentialed access required).
+
 Visit: https://physionet.org/content/mimiciv/3.1/
-Do NOT commit any data files.
+
+⚠️ Do NOT commit any data files.
 
 ## Author
 Rabina Karki | MS Data Science, University of Central Oklahoma
-GitHub: techierabina
+
+GitHub: [techierabina](https://github.com/techierabina)
